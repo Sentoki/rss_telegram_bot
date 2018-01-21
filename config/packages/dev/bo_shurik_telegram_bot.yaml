@@ -1,0 +1,5 @@
+#framework:
+#    bo_shurik_telegram_bot:
+#        api:
+#          token: "518315616:AAFPCpEj1PkRVCyKieklyWYJgkVOBabvKRo"
+#        name: "petrov_egor_test1_bot"

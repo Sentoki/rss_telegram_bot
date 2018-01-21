@@ -1,0 +1,4 @@
+bo_shurik_telegram_bot:
+        api:
+          token: "%telegram_bot_api_token%"
+        name: "%telegram_bot_name%"
